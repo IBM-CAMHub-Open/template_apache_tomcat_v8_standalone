@@ -23,7 +23,6 @@
       }
     },
     "metadata": {
-      "displayName": "Apache Tomcat on a single virtual machine",
       "providerDisplayName": "Amazon EC2",
       "longDescription": "This template deploys Apache Tomcat on a Linux virtual machine.",
       "bullets": [{

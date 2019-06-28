@@ -23,7 +23,6 @@
       }
     },
     "metadata": {
-      "displayName": "Apache Tomcat on a single virtual machine",
       "providerDisplayName": "VMware vSphere",
       "longDescription": "This template deploys Apache Tomcat on a Linux virtual machine.",
       "bullets": [{
